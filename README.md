@@ -7,7 +7,7 @@
 ##
 
 - 👋 Seja bem vindo(a) ao meu GitHub!
-- 👨‍🎓 Sou desenvolvedor back-end Java, com formação em Tecnologia em Análise e Desenvolvimento de Sistemas, além de possuir certificados de cursos complementares de diversas plataformas
+- 👨‍🎓 Sou desenvolvedor back-end Java, formado como Tecnólogo em Análise e Desenvolvimento de Sistemas, além de já ter concluído cursos complementares de diversas plataformas de estudo
 - 👨‍💻 Atuo como Engenheiro de Software na TQI, onde estou alocado em projetos do PagBank PagSeguro, atuando na manutenção e evolução de APIs
 - 🌱 Venho focando meus estudos na área de desenvolvimento web, aprendendo sobre tecnologias e conceitos relacionados ao assunto, como: ecossistema spring, microserviços, monitorações, docker, kubernetes, banco de dados SQL e NoSQL, entre outros
 

@@ -1,4 +1,4 @@
-### Olá! Eu sou o Estêvão Cangussú
+### Olá! Eu sou o Estevao Cangussu
 
 <div align="center">
   <a href="https://www.linkedin.com/in/estevao-hc-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -8,7 +8,7 @@
 
 - 👋 Seja bem vindo(a) ao meu GitHub!
 - 👨‍🎓 Sou desenvolvedor back-end Java, formado como Tecnólogo em Análise e Desenvolvimento de Sistemas, além de já ter concluído cursos complementares de diversas plataformas de estudo
-- 👨‍💻 Atuo como Software Developer na Senior Sistemas, na customização de projetos WMS (logística de mercadoria de armazéns)
+- 👨‍💻 Atuo como Software Developer na Senior Sistemas, na customização de projetos WMS (logística de mercadorias de armazéns)
 - 🌱 Venho focando meus estudos na área de desenvolvimento web, aprendendo sobre tecnologias e conceitos relacionados ao assunto, como: java, ecossistema spring, microsserviços, monitorações, docker, kubernetes, banco de dados SQL e NoSQL, entre outros
 
 <div align="center">

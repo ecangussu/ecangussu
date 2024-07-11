@@ -1,15 +1,15 @@
 ### Olá! Eu sou o Estêvão Cangussú
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/estevao-henrique-cangussu-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/estevao-hc-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
 ##
 
 - 👋 Seja bem vindo(a) ao meu GitHub!
 - 👨‍🎓 Sou desenvolvedor back-end Java, formado como Tecnólogo em Análise e Desenvolvimento de Sistemas, além de já ter concluído cursos complementares de diversas plataformas de estudo
-- 👨‍💻 Atuo como Engenheiro de Software na TQI, onde estou alocado em projetos do PagBank PagSeguro, atuando na manutenção e evolução de APIs
-- 🌱 Venho focando meus estudos na área de desenvolvimento web, aprendendo sobre tecnologias e conceitos relacionados ao assunto, como: ecossistema spring, microserviços, monitorações, docker, kubernetes, banco de dados SQL e NoSQL, entre outros
+- 👨‍💻 Atuo como Software Developer na Senior Sistemas, na customização de projetos WMS (logística de mercadoria de armazéns)
+- 🌱 Venho focando meus estudos na área de desenvolvimento web, aprendendo sobre tecnologias e conceitos relacionados ao assunto, como: java, ecossistema spring, microsserviços, monitorações, docker, kubernetes, banco de dados SQL e NoSQL, entre outros
 
 <div align="center">
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />   
